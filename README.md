@@ -1,6 +1,6 @@
 # 2026-All-Brands-Bootloader-Unlock-Status
 [2026持续更新] 全网最全手机 BL 解锁与 Root 现状汇总。覆盖 Xiaomi (MIUI/HyperOS 2.0), Oplus (ColorOS 15/16), Huawei, Vivo, Honor 及 Apple iOS 越狱情况。严谨整理，拒绝过时信息。The Most Complete BL Unlock Status Guide. 
-# 各厂 BL 锁情况总结 -- 挑战做全网最全的 (2026.6.13 更新)
+# 各厂 BL 锁情况总结 -- 挑战做全网最全的 (2026.7.14 更新)
 
 **无论你是什么品牌，什么芯片，都请不要以任何形式升级系统！熔断，监控，云控，限制，反诈，越升级越离谱，越升级你能获得的自由就越少！**
 
